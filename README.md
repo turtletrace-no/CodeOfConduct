@@ -57,7 +57,7 @@ Meta
 ----
 
 - This document is managed on GitHub.
-- We welcome [pull requests](https://github.com/turtletrace-no/CodeOfConduct).
+- We welcome [pull requests](https://github.com/turtletrace-no/code-of-conduct).
 - Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta-discord` channel.
 
 Derived from the [\#include<C++> CoC](https://www.includecpp.org/code-of-conduct/) under MIT License, which in turn was derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
