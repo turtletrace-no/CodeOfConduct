@@ -17,7 +17,7 @@ Expected Behaviour
 Unacceptable Behaviour
 ---------------------
 
-The following behaviours are unacceptable in all `TurtleTrace` [Discord channels and direct messages](/discord/), and in any physical or online events officially organised by its administrative team:
+The following behaviours are unacceptable in all `TurtleTrace` [Discord channels and direct messages](discord.md), and in any physical or online events officially organised by its administrative team:
 
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
