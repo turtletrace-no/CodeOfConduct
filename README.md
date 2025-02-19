@@ -1,4 +1,4 @@
-# CodeOfConduct
+# Code Of Conduct
 
 Introduction
 ------------
